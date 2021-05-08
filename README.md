@@ -1,4 +1,7 @@
-### Hi there 👋
+## 👋🏻 Hi there  
+
+- 💼   Junior Web  developer
+- 🏫   University Student
 
 <!--
 **CHAYEONIL/CHAYEONIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
