@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there  
 
-- 💼   Junior Web  developer
+- 💼   Junior Developer
 - 🏫   University Student
 
 <!--
