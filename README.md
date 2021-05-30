@@ -11,7 +11,7 @@
 ## My solved.ac tier
 <br>
 
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeay123)](https://solved.ac/jeay123)
+![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeay123)
 <!--
 **CHAYEONIL/CHAYEONIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
